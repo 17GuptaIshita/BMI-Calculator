@@ -31,7 +31,7 @@
 <p><em>Empowering health through intuitive tools.</em></p>
 
 <h2>📡 Live Demo</h2>
-<p>👉 <a href="#" target="_blank">Check it out on Vercel</a> <em>(https://calculate-your-bmi-sigma.vercel.app/)</em></p>
+<p>👉 Check it out on Vercel <em>(https://calculate-your-bmi-sigma.vercel.app/)</em></p>
 
 <br>
 <div align="center" style="font-size: 0.9em; opacity: 0.6;">
